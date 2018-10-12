@@ -6,7 +6,7 @@
   "homepage": "https://github.com/Subrat007/kibana-object-format",
   "main": "index.js",
   "kibana": {
-    "version": "6.3.0"
+    "version": "6.3.2"
   },
   "scripts": {
     "lint": "eslint",
